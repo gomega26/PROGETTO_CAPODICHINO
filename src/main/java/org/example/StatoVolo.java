@@ -1,10 +1,10 @@
-package org.example.Aereoporto;
+package org.example;
 
 public enum StatoVolo {
 
     Programmato,
     Decollato,
     InRitardo,
-    Arrivato,
+    Atterrato,
     Cancellato;
 }

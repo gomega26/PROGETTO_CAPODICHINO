@@ -1,4 +1,4 @@
-package org.example.Aereoporto;
+package org.example;
 
 public enum StatoPrenotazione {
 
